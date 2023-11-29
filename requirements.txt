@@ -1,3 +1,4 @@
 Flask==2.2.4
+psutil==5.8.0
 Werkzeug
 requests
